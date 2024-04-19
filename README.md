@@ -1,8 +1,8 @@
-# M & E Report Template - Google Apps Script, HTML Web App, Plotly JS
+# REPO TITLE
 
 | Table of Contents | Description |
 | -------------- | -------------- |
-| - [Installation](#installation) <br> - [Usage](#usage) <br> - [Contributing](#contributing) <br> - [License](#license) <br> - [Credits](#credits--acknowledgments) <br> - [Support](#support) <br> - [Examples](#examples)| This project builds a web app on Google Apps Script that pulls data from Google Sheet to a frontend HTML that displays graphs using [Plotly JS library](https://plotly.com/javascript/).|
+| - [Installation](#installation) <br> - [Usage](#usage) <br> - [Contributing](#contributing) <br> - [License](#license) <br> - [Credits & Acknoledgement](#credits--acknowledgments) <br> - [Support](#support) <br> - [Roadmap & Troubleshooting](#roadmap--troubleshooting)| Short Description of Project |
 
 ## Installation
 No installation is required. You just need to start with Google Drive. 
@@ -58,10 +58,16 @@ For any questions or issues regarding the project, please refer to:
 * [GitHub Issues](https://github.com/zhix/AppScript-PlotlyJS/issues) by creating a ticket
 * Zhi Xiong (via [email](mailto:zhix.chong@gmail.com))
 
-## Changelog & Next Milestones
+## Next Milestones, Examples, References
+### Next Milestones
 * Update the descriptor
 * Allow view selection
 * Connect back to all the international criteria
 
-## Examples 
+### Examples 
 * [Chumbaka Report](https://script.google.com/a/macros/chumbaka.asia/s/AKfycbxew5PBE8KLSPOU45zNprhxEmFyUwUYnxI_4fkduVPTrrXAyOHlWRPq3w8ePcl2Y9NofQ/exec)
+
+### References
+* Update the descriptor
+* Allow view selection
+* Connect back to all the international criteria
