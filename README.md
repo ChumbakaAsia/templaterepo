@@ -2,7 +2,7 @@
 
 | Table of Contents | Description |
 | -------------- | -------------- |
-| - [Installation](#installation) <br> - [Usage](#usage) <br> - [Contributing](#contributing) <br> - [License](#license) <br> - [Credits & Acknoledgement](#credits--acknowledgments) <br> - [Support](#support) <br> - [Roadmap & Troubleshooting](#roadmap--troubleshooting)| Short Description of Project |
+| - [Installation](#installation) <br> - [Usage](#usage) <br> - [Contributing](#contributing) <br> - [License](#license) <br> - [Credits & Acknoledgement](#credits--acknowledgments) <br> - [Support](#support) <br> - [Next Milestones, Examples, References](#next-milestones)| Short Description of Project |
 
 ## Installation
 No installation is required. You just need to start with Google Drive. 
